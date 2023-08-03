@@ -47,7 +47,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 export const repo = async (args?: string[]): Promise<string> => {
   setTimeout(function () {
-    window.open('https://github.com/panchocorderos/terminal', '_blank');
+    window.open('https://github.com/m4tt72/terminal', '_blank');
   }, 1000);
 
   return 'Opening repository...';
@@ -69,7 +69,8 @@ export const banner = (args?: string[]): string => {
 Type 'help' to see list of available commands.
 
 --
-The project is open-source 🎉 type 'repo' to check out the repository.
+Thanks to Yassine Fathi | M4TT72 for create this aweasome terminal! 🎉
+If you want to fork this repository type 'repo' to check out the repository 🎉
 
 New 🎉: New command 'neofetch', for you linux.
 --
