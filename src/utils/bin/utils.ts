@@ -20,9 +20,9 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const email = async (args: string[]): Promise<string> => {
-  window.open('mailto:hi@nm4tt72.com');
+  window.open('mailto:fco.cordero98@gmail.com');
 
-  return 'Opening mailto:hi@m4tt72.com...';
+  return 'Opening mailto:fco.cordero98@gmail.com...';
 };
 
 export const vi = async (args: string[]): Promise<string> => {
