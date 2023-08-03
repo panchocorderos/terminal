@@ -1,10 +1,10 @@
 {
-  "bioUrl": "https://raw.githubusercontent.com/m4tt72/m4tt72/master/README.md",
+  "bioUrl": "https://raw.githubusercontent.com/panchocorderos/panchocorderos/master/README.md",
+  "theme": "vag",
   "social": {
-    "instagram": "m4tt72",
-    "github": "m4tt72",
-    "linkedin": "yassinefathi"
+    "instagram": "panchocorderos",
+    "github": "panchocorderos",
+    "linkedin": "panchocorderos"
   },
-  "theme": "gruvboxdark",
   "border": true
 }
